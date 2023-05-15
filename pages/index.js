@@ -15,7 +15,7 @@ export default function Home() {
       </Head>
       <Hero
         heading=" Nikko Photography"
-        message="capturing moments"
+        message="Capturing moments in nature."
       />
       <Slider slides={SliderData} />
       <Instagram />

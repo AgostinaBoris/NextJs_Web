@@ -3,8 +3,8 @@ import Image from "next/image";
 
 const Portfolio = () => {
     return(
-        <div className="max-w-[1240px] mx-auto py-16 text-center">
-            <h1 className="font-bold text-2xl p-4">Travel Photos</h1>
+        <div className="max-w-[1240px] mx-auto py-10 text-center">
+            <h1 className="font-bold text-white text-3xl p-4">Travel Photos</h1>
             <div className="grid grid-rows-none md:grid-cols-5 p-4 md:gap-4">
              <div className="w-full h-full col-span-2 md:col-span-2 row-span-2">
                 <Image
